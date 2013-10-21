@@ -1,0 +1,15 @@
+{
+  "name": "archer-lipsum",
+  "version": "0.0.1",
+  "description": "A lipsum generator based on the show Archer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "lipsum"
+  ],
+  "author": "Sugendran Ganess",
+  "license": "Public Domain"
+}
